@@ -1,0 +1,26 @@
+{
+  "emulators": {
+    "auth": {
+      "port": 9099
+    },
+    "functions": {
+      "port": 9098
+    },
+    "firestore": {
+      "port": 9097
+    },
+    "database": {
+      "port": 9096
+    },
+    "hosting": {
+      "port": 9095
+    },
+    "pubsub": {
+      "port": 9094
+    },
+    "ui": {
+      "enabled": true,
+      "port": 9090
+    }
+  }
+}

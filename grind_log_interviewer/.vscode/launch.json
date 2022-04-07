@@ -1,0 +1,14 @@
+{
+    // launch.json
+    "version": "0.1.0",
+    "configurations": [
+      {
+        "name": "Android: Debug",
+        "request": "launch",
+        "type": "dart",
+        "deviceId": "android",
+        "flutterMode": "debug"
+      },
+    ]
+  }
+  
